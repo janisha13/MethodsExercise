@@ -1,0 +1,15 @@
+/Users/janisha/repos/Methodsexercise/Methodsexercise/bin/Debug/net5.0/Methodsexercise.deps.json
+/Users/janisha/repos/Methodsexercise/Methodsexercise/bin/Debug/net5.0/Methodsexercise.runtimeconfig.json
+/Users/janisha/repos/Methodsexercise/Methodsexercise/bin/Debug/net5.0/Methodsexercise.runtimeconfig.dev.json
+/Users/janisha/repos/Methodsexercise/Methodsexercise/bin/Debug/net5.0/Methodsexercise.dll
+/Users/janisha/repos/Methodsexercise/Methodsexercise/bin/Debug/net5.0/ref/Methodsexercise.dll
+/Users/janisha/repos/Methodsexercise/Methodsexercise/bin/Debug/net5.0/Methodsexercise.pdb
+/Users/janisha/repos/Methodsexercise/Methodsexercise/obj/Debug/net5.0/Methodsexercise.csprojAssemblyReference.cache
+/Users/janisha/repos/Methodsexercise/Methodsexercise/obj/Debug/net5.0/Methodsexercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janisha/repos/Methodsexercise/Methodsexercise/obj/Debug/net5.0/Methodsexercise.AssemblyInfoInputs.cache
+/Users/janisha/repos/Methodsexercise/Methodsexercise/obj/Debug/net5.0/Methodsexercise.AssemblyInfo.cs
+/Users/janisha/repos/Methodsexercise/Methodsexercise/obj/Debug/net5.0/Methodsexercise.csproj.CoreCompileInputs.cache
+/Users/janisha/repos/Methodsexercise/Methodsexercise/obj/Debug/net5.0/Methodsexercise.dll
+/Users/janisha/repos/Methodsexercise/Methodsexercise/obj/Debug/net5.0/ref/Methodsexercise.dll
+/Users/janisha/repos/Methodsexercise/Methodsexercise/obj/Debug/net5.0/Methodsexercise.pdb
+/Users/janisha/repos/Methodsexercise/Methodsexercise/obj/Debug/net5.0/Methodsexercise.genruntimeconfig.cache
